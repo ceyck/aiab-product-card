@@ -4,7 +4,7 @@ import * as ReactDOM from 'react-dom';
 import { ProductButtons, ProductCard, ProductImage, ProductTitle } from '../.';
 const product = {
   id: '1',
-  title: 'Coffee Mug - Card',
+  title: 'Coffee Mug - Card!',
   img: './coffee-mug.png',
 };
 
