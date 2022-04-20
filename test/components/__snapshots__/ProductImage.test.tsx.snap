@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductImagen debe de mostrar la imagen 1`] = `
+<img
+  alt="Product"
+  className="productImg custom"
+  src="https:hola.com"
+/>
+`;
+
+exports[`ProductImagen no debe de mostrar la imagen 1`] = `
+<div
+  className="productCard undefined"
+>
+  <img
+    alt="Product"
+    className="productImg product-image"
+    src="./coffee-mug.png"
+  />
+</div>
+`;

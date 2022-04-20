@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Card debe de incrementar el contador 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+  <span>
+    0
+  </span>
+  <button
+    onClick={[Function]}
+  />
+</div>
+`;
+
+exports[`Product Card debe de mostar el componente corectamente 1`] = `
+<div
+  className="productCard undefined"
+>
+  <h1>
+    Product Card
+  </h1>
+</div>
+`;
+
+exports[`Product Title debe de mostar el componente corectamente con el titulo personalizado 1`] = `
+<span
+  className="description custom-class"
+>
+  Custom Product
+</span>
+`;
+
+exports[`Product Title debe de mostrar el componente con el nombre del producto 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="description undefined"
+  >
+    Coffee Mug - Sin Imagen
+  </span>
+</div>
+`;
